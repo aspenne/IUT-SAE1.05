@@ -1,9 +1,10 @@
 # IUT-SAE1.05
 
 ## Contributors :
-- Emilie ZAMMIT
-- Axel MICHELO
-- LAGANE ANTOINE
+- MICHELo Axel
+  -https://github.com/aspenne
+- LAGANE Antoine
+- ZAMMIT Emilie
 
 ## Context : 
 
